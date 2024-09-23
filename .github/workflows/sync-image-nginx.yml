@@ -1,4 +1,4 @@
-name: 拉取镜像推送
+name: 拉取镜像推送-nginx:latest
 
 on:
   workflow_dispatch:
